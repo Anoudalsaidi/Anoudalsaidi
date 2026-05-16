@@ -55,7 +55,7 @@ CGPA: 3.82 / 4.0
 
 ## 📫 Contact Me
 📧 Email: anooudalsaidi@gmail.com  
-🔗 LinkedIn: linkedin.com/in/anoud-alsaidi
+🔗LinkedIn: Anoud Alsaidi LinkedIn  
 
 ---
 
