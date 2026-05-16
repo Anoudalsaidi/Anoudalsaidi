@@ -30,7 +30,7 @@ I’m a tech-driven problem solver with a passion for software development and n
 -Gained practical experience in network configuration, IoT protocols, and data transmission.
 -Enhanced skills in troubleshooting, system integration, and IoT-network security considerations.
 ## :mailbox: How to Reach Me
-- Email: anoudalsaidi1993@gmail.com
+- Email: anooudalsaidi@gmail.com
 - LinkedIn: https://www.linkedin.com/in/anoud-alsaidi?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
 ## :seedling: Fun Facts
 - **I enjoy solving tech puzzles and breaking down complex problems just for fun.**:
