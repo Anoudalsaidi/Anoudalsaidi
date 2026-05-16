@@ -1,39 +1,67 @@
-# Hi there, I'm Anoud Suliman Alsaidi :wave:
-## :mortar_board: Education
-- **Degree**: Bachelor's in Network Security 
-- **University**: University of Technology and Applied Sciences
-- **GPA**: 3.8
-- **Graduation Year**: 2019
-## :computer: About Me
-I’m a tech-driven problem solver with a passion for software development and network security. I love turning ideas into functional, user-focused solutions and continuously expanding my skills through real projects and hands-on learning. My goal is to build smart, secure, and reliable applications while staying curious and adaptable in a fast-moving tech world.
+# Hi there, I'm Anoud Suliman Alsaidi 👋
 
-## :hammer_and_wrench: Technical Skills
-### Programming Languages
-- **Proficient**: c++
-- **Familiar**: Java, JavaScript
-- **Learning**: C#
-### Web Development
-- **Frontend**: HTML, CSS, JavaScript
-- **Backend**: ASP.NET Core, Node.js, Django
-- **Database**: SQL Server
-### Tools & Technologies
-- Version Control: Git, GitHub
-- IDEs: Visual Studio, VS Code
-## :books: What I'm Currently Learning
-- **.NET Development**:building skills as a .NET developer
-- **Git & GitHub**:version control and collaborative development
-- **Online Courses & Certifications**:pursuing courses in software development and network security
-## :telescope: Projects
-- **Connecting LAN & WAN Technologies with IoT**:
--Designed and implemented a system integrating Local Area Networks (LAN) and Wide Area Networks (WAN) with Internet of Things (IoT) devices.
--Developed solutions to enable seamless communication between IoT devices across different network types.
--Gained practical experience in network configuration, IoT protocols, and data transmission.
--Enhanced skills in troubleshooting, system integration, and IoT-network security considerations.
-## :mailbox: How to Reach Me
-- Email: anooudalsaidi@gmail.com
-- LinkedIn: https://www.linkedin.com/in/anoud-alsaidi?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
-## :seedling: Fun Facts
-- **I enjoy solving tech puzzles and breaking down complex problems just for fun.**:
-- **I love exploring new programming languages even if I don’t immediately need them.**:
+## 💻 About Me
+Information Technology graduate specializing in Networking and Network Security with a strong interest in Full Stack Development and Cybersecurity. Passionate about building secure and efficient solutions while continuously improving technical and problem-solving skills through practical projects and hands-on experience.
 
+---
 
+## 🎓 Education
+**Bachelor’s Degree in Information Technology – Networking**  
+University of Technology and Applied Sciences  
+CGPA: 3.82 / 4.0
+
+---
+
+## 🛠️ Technical Skills
+
+### Networking & Cybersecurity
+- TCP/IP, DHCP, DNS, NAT, Subnetting
+- VLANs, OSPF, EIGRP, STP
+- VPN, Firewalls, IDS/IPS
+- Wireshark, Cisco Packet Tracer
+
+### Programming & Web Development
+- HTML, CSS, JavaScript
+- C#, ASP.NET
+- SQL Server
+
+### Tools
+- Git & GitHub
+- Visual Studio
+- VS Code
+
+---
+
+## 📚 Currently Learning
+- .NET Development
+- Advanced Full Stack Development
+- Network Security & Cybersecurity
+- Git & GitHub Collaboration
+
+---
+
+## 🔭 Projects
+
+### Connecting LAN & WAN Technologies with IoT
+- Designed and implemented a system integrating LAN/WAN technologies with IoT devices.
+- Configured network communication between connected devices.
+- Improved troubleshooting, networking, and security analysis skills.
+
+### Full Stack Web Application
+- Developed a web application using HTML, CSS, JavaScript, C#, and SQL Server.
+- Implemented backend functionality and database integration.
+
+---
+
+## 📫 Contact Me
+📧 Email: anooudalsaidi@gmail.com  
+🔗 LinkedIn: linkedin.com/in/anoud-alsaidi
+
+---
+
+## 🌱 Interests
+- Cybersecurity
+- Full Stack Development
+- Network Infrastructure
+- Problem Solving
+- Learning New Technologies
