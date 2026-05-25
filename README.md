@@ -1,67 +1,60 @@
 # Hi there, I'm Anoud Suliman Alsaidi 👋
 
 ## 💻 About Me
-Information Technology graduate specializing in Networking and Network Security with a strong interest in Full Stack Development and Cybersecurity. Passionate about building secure and efficient solutions while continuously improving technical and problem-solving skills through practical projects and hands-on experience.
+Information Technology graduate specializing in Networking & Network Security, with a strong interest in Full Stack Development and Cybersecurity. Passionate about building secure, scalable systems and improving problem-solving skills through hands-on projects.
 
 ---
 
 ## 🎓 Education
-**Bachelor’s Degree in Information Technology – Networking**  
+**BSc in Information Technology – Networking**  
 University of Technology and Applied Sciences  
 CGPA: 3.82 / 4.0
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Skills
 
-### Networking & Cybersecurity
-- TCP/IP, DHCP, DNS, NAT, Subnetting
-- VLANs, OSPF, EIGRP, STP
-- VPN, Firewalls, IDS/IPS
-- Wireshark, Cisco Packet Tracer
+### 🔐 Networking & Cybersecurity
+- TCP/IP, DNS, DHCP, NAT, Subnetting  
+- VLANs, OSPF, EIGRP, STP  
+- Firewalls, VPN, IDS/IPS  
+- Wireshark, Cisco Packet Tracer  
 
-### Programming & Web Development
-- HTML, CSS, JavaScript
+### 💻 Development
 - C#, ASP.NET
-- SQL Server
+- HTML, CSS, JavaScript  
+- SQL Server  
+- Entity Framework Core  
 
-### Tools
-- Git & GitHub
-- Visual Studio
-- VS Code
+### ⚙️ Tools
+- Git & GitHub  
+- Visual Studio & VS Code  
 
 ---
 
 ## 📚 Currently Learning
-- .NET Development
-- Advanced Full Stack Development
-- Network Security & Cybersecurity
-- Git & GitHub Collaboration
+- Advanced .NET Development  
+- Full Stack Web Development  
+- Cybersecurity & Network Security  
+- GitHub Collaboration & Open Source  
 
 ---
 
-## 🔭 Projects
+## 🚀 Projects
 
-### Connecting LAN & WAN Technologies with IoT
-- Designed and implemented a system integrating LAN/WAN technologies with IoT devices.
-- Configured network communication between connected devices.
-- Improved troubleshooting, networking, and security analysis skills.
+### 🌐 LAN/WAN & IoT Integration
+Designed and implemented a network system integrating LAN/WAN with IoT devices, improving routing, communication, and security analysis skills.
 
-### Full Stack Web Application
-- Developed a web application using HTML, CSS, JavaScript, C#, and SQL Server.
-- Implemented backend functionality and database integration.
+### 💻 Full Stack Web Application
+Built a web application using ASP.NET, JavaScript, and SQL Server with backend logic and database integration.
 
 ---
 
-## 📫 Contact Me
+## 📫 Contact
 📧 Email: anooudalsaidi@gmail.com  
-🔗LinkedIn: Anoud Alsaidi LinkedIn  
+🔗 LinkedIn: Anoud Alsaidi  
 
 ---
 
 ## 🌱 Interests
-- Cybersecurity
-- Full Stack Development
-- Network Infrastructure
-- Problem Solving
-- Learning New Technologies
+Cybersecurity • Full Stack Development • Networking • Problem Solving • Continuous Learning
