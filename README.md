@@ -1,3 +1,5 @@
+![Banner](https://github.com/Anoudalsaidi/Anoudalsaidi/blob/main/ChatGPT%20Image%20May%2025%2C%202026%2C%2012_58_59%20PM.png)
+
 # Hi there, I'm Anoud Suliman Alsaidi 👋
 
 ## 💻 About Me
