@@ -1,6 +1,6 @@
 ![Banner](https://github.com/Anoudalsaidi/Anoudalsaidi/blob/main/ChatGPT%20Image%20May%2025%2C%202026%2C%2012_58_59%20PM.png)
 
-# Hi there, I'm Anoud Suliman Alsaidi 👋
+# Hi there, I'm Anoud 👋
 
 ## 💻 About Me
 Information Technology graduate specializing in Networking & Network Security, with a strong interest in Full Stack Development and Cybersecurity. Passionate about building secure, scalable systems and improving problem-solving skills through hands-on projects.
