@@ -83,9 +83,10 @@
 
 # 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anoudalsaidi&show_icons=true&theme=tokyonight)
+![Anoud's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anoudalsaidi&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anoudalsaidi&layout=compact&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anoudalsaidi&layout=compact&theme=tokyonight&cache_seconds=1800)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Anoudalsaidi&theme=tokyonight)
 
