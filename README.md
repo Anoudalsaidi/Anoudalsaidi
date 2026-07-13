@@ -1,62 +1,113 @@
-![Banner](https://github.com/Anoudalsaidi/Anoudalsaidi/blob/main/ChatGPT%20Image%20May%2025%2C%202026%2C%2012_58_59%20PM.png)
+<p align="center">
+  <img src="https://github.com/Anoudalsaidi/Anoudalsaidi/blob/main/ChatGPT%20Image%20May%2025%2C%202026%2C%2012_58_59%20PM.png?raw=true" width="100%" alt="Banner"/>
+</p>
 
-# Hi there, I'm Anoud 👋
+<h1 align="center">Hi 👋, I'm Anoud Alsaidi</h1>
+<h3 align="center">Backend Developer | .NET Developer | Network Engineer | Cybersecurity Enthusiast</h3>
 
-## 💻 About Me
-Information Technology graduate specializing in Networking & Network Security, with a strong interest in Full Stack Development and Cybersecurity. Passionate about building secure, scalable systems and improving problem-solving skills through hands-on projects.
-
----
-
-## 🎓 Education
-**BSc in Information Technology – Networking**  
-University of Technology and Applied Sciences  
-CGPA: 3.82 / 4.0
-
----
-
-## 🛠️ Skills
-
-### 🔐 Networking & Cybersecurity
-- TCP/IP, DNS, DHCP, NAT, Subnetting  
-- VLANs, OSPF, EIGRP, STP  
-- Firewalls, VPN, IDS/IPS  
-- Wireshark, Cisco Packet Tracer  
-
-### 💻 Development
-- C#, ASP.NET
-- HTML, CSS, JavaScript  
-- SQL Server  
-- Entity Framework Core  
-
-### ⚙️ Tools
-- Git & GitHub  
-- Visual Studio & VS Code  
+<p align="center">
+  <a href="https://github.com/Anoudalsaidi">
+    <img src="https://komarev.com/ghpvc/?username=Anoudalsaidi&label=Profile%20Views&color=6A5ACD&style=for-the-badge"/>
+  </a>
+</p>
 
 ---
 
-## 📚 Currently Learning
-- Advanced .NET Development  
-- Full Stack Web Development  
-- Cybersecurity & Network Security  
-- GitHub Collaboration & Open Source  
+# 💫 About Me
+
+- 🎓 BSc in Information Technology (Networking)
+- 💻 Backend Developer specializing in ASP.NET Core
+- 🌐 Passionate about Networking & Cybersecurity
+- 🚀 Building .NET, SQL Server & EF Core projects
+- 📚 Currently learning Clean Architecture & Advanced ASP.NET Core
+- 🎯 Goal: Become a Professional Backend Developer
 
 ---
 
-## 🚀 Projects
+# 🛠️ Tech Stack
 
-### 🌐 LAN/WAN & IoT Integration
-Designed and implemented a network system integrating LAN/WAN with IoT devices, improving routing, communication, and security analysis skills.
+### Languages
 
-### 💻 Full Stack Web Application
-Built a web application using ASP.NET, JavaScript, and SQL Server with backend logic and database integration.
-
----
-
-## 📫 Contact
-📧 Email: anooudalsaidi@gmail.com  
-🔗 LinkedIn: Anoud Alsaidi  
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
 
 ---
 
-## 🌱 Interests
-Cybersecurity • Full Stack Development • Networking • Problem Solving • Continuous Learning
+### Backend
+
+- ASP.NET Core
+- Entity Framework Core
+- LINQ
+- REST API
+- JWT Authentication
+
+---
+
+### Networking
+
+- TCP/IP
+- DHCP
+- DNS
+- VLAN
+- OSPF
+- NAT
+- Wireshark
+- Cisco Packet Tracer
+
+---
+
+### Tools
+
+- Visual Studio
+- VS Code
+- Git
+- GitHub
+- SQL Server
+
+---
+
+# 🚀 Featured Projects
+
+⭐ SmartTransit API JWT Authentication
+
+⭐ Hospital Management System
+
+⭐ E-Commerce System ERD & Models
+
+⭐ Employee Management System
+
+⭐ Grand Azure Hotel Management System
+
+---
+
+# 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anoudalsaidi&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anoudalsaidi&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Anoudalsaidi&theme=tokyonight)
+
+---
+
+# 📫 Connect with Me
+
+- 📧 Email: anooudalsaidi@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/anoud-alsaidi
+- 💻 GitHub: https://github.com/Anoudalsaidi
+
+---
+
+# 🌱 Currently Learning
+
+- Clean Architecture
+- Repository Pattern
+- Docker
+- GitHub Actions
+- Unit Testing
+- Azure
+
+---
+
+⭐ Thank you for visiting my profile!
